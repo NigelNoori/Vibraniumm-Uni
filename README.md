@@ -4,8 +4,8 @@ Welcome to my GitHub repository where I showcase various projects completed duri
 
 ## Table of Contents
 
-- [About] Uni projects
-- [Contact] Mohammad963.mn@gmail.com
+- Uni projects
+- Mohammad963.mn@gmail.com
 
 ## About
 
